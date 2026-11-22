@@ -1,0 +1,20 @@
+{
+  "key_id" : "aaa8fff703b50b22",
+  "private_key_base64" : "AQIDBAUGBwgJCgsMDQ4PEBESExQVFhcYGRobHB0eHyA=",
+  "earlier_public_key" : "fdpk1_B6N8vBQgk8i3VdwbEOhstCY3StFqqFPtC9_AsrhtHHw",
+  "public_key" : "fdpk2_B6N8vBQgk8i3VdwbEOhstCY3StFqqFPtC9_AsrhtHHyo_UJh",
+  "report_id" : "00000000-0000-4000-8000-000000000001",
+  "status" : "provisional-synthetic",
+  "vectors" : [
+    {
+      "envelope_base64" : "RkRSMaqo\/\/cDtQsimGY3olDaOZoLbopjZC1KdqHf+c6CdUqm3qVNMKoAfV+aJqe83mvDigb2o\/28B4id\/VOPa9OdKr7UUUOcQri\/QOXXVlg\/ETNEgFmVvOnlLYO\/YzavQvO37r2uLr5kL1A4Ctyyw6N+aN9MDWHUqm7yUzntKCdVwkAKnjfKMelfalvxdKkd5U1KE9w=",
+      "part" : "sealed",
+      "plaintext_base64" : "eyJ0aXRsZSI6IlN5bnRoZXRpYyB2ZWN0b3IiLCJib2R5IjoiVGVzdCBkYXRhIG9ubHkiLCJtZXRhZGF0YSI6eyJhbnN3ZXJlZCBieSI6IkZpeHR1cmUifX0="
+    },
+    {
+      "envelope_base64" : "RkRSMaqo\/\/cDtQsi9Ft7HMKxmduJoN9X0bPoexiPcNDfAjlQ2\/pSA6fkJhnwQzuT9p0N\/hy3nK7iZJ5ke3Zozrg=",
+      "part" : "payload",
+      "plaintext_base64" : "AAECgP8="
+    }
+  ]
+}

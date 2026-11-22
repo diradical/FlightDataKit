@@ -1,0 +1,49 @@
+Flight Data Recorder SDK License
+Version 1.0
+
+Copyright © 2026 Diradical LLC. All rights reserved.
+
+FlightDataKit (the "Software") is the software development kit for Flight Data Recorder: the Flight Data service and the Flight Data Recorder app, made by Diradical LLC ("Diradical"). Its source is published so that you can read it, check how your users' reports are sealed, and fix or improve it. It is not open source: you may use it only as this license allows.
+
+1. Definitions.
+   a. "Service" means Flight Data, the service Diradical operates at flightdata.dev.
+   b. "Account" means an account with the Service on any plan, including the free plan, that is in good standing under the Flight Data Terms of Service.
+   c. "Licensee" means you, if you hold an Account, or the organization you act for, if it holds one.
+   d. "Application" means software made by or for a Licensee.
+
+2. What a Licensee may do. While it holds an Account, Diradical grants each Licensee a worldwide, non-exclusive, non-transferable, royalty-free license to:
+   a. use, copy and modify the Software to add it to Applications so that they send reports to the Service;
+   b. distribute the Software, modified or not, in compiled form as part of those Applications; and
+   c. keep a copy of the Software's source, public or private, modified or not, to maintain changes to it or to propose them to Diradical, as long as this license and the copyright notice stay with it.
+
+3. Work for clients. If you build an Application for a client that is a Licensee, you may use the Software under section 2 on the client's behalf. The Application must send its reports to the client's Account.
+
+4. What no one may do. You may not:
+   a. use the Software, or any part or modification of it, to send reports to, or receive them from, any service other than the Service;
+   b. use the Software's source code to build, or to help build, a product or service that competes with the Service;
+   c. distribute the Software in source form, except as section 2(c) allows or to your employees and contractors working on Applications under obligations at least as protective as this license; or
+   d. remove or alter any copyright notice or this license.
+
+   Nothing in this license restricts anyone from reading the Software or its documentation.
+
+5. When rights end.
+   a. A Licensee's rights continue for 90 days after its Account is closed, so that it can release builds of its Applications without the Software, and then end. After that, it may not distribute new builds of an Application that contains the Software. Copies of Applications already in people's hands may keep running.
+   b. If you break this license, Diradical may tell you so in writing. If you don't put it right within 30 days of that notice, your rights under this license end.
+
+6. Contributions. If you send Diradical a change to the Software, you grant Diradical a perpetual, worldwide, royalty-free, irrevocable license to use, modify and distribute it in any way, and you confirm you have the right to grant it.
+
+7. Names. This license grants no right to use Diradical's names or marks, including "Flight Data", "Flight Data Recorder" and "FlightDataKit", except to say truthfully that an Application uses FlightDataKit.
+
+8. The Service. Your use of the Service is governed by the Flight Data Terms of Service (https://flightdata.dev/terms) and, where it applies, the Data Processing Addendum (https://flightdata.dev/dpa). This license covers only the Software.
+
+9. Ownership. Diradical keeps all rights in the Software not expressly granted here.
+
+10. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+11. Limitation of liability. IN NO EVENT SHALL DIRADICAL BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+12. Governing law. This license is governed by the laws of the Commonwealth of Pennsylvania, USA, without regard to its conflict-of-law rules, and disputes about it go to the courts of Pennsylvania.
+
+13. New versions. Diradical may publish new versions of this license. Each version of the Software is licensed under the version of this license that comes with it.
+
+Questions about this license: support@diradical.com.

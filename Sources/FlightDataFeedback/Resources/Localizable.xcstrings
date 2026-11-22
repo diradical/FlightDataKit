@@ -1,0 +1,254 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@ %@" : {
+      "comment" : "A label and the asterisk that marks it required.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$@"
+          }
+        }
+      }
+    },
+    "%@ (%@)" : {
+      "comment" : "A value and, in brackets, more about it, such as a version and its build.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ (%2$@)"
+          }
+        }
+      }
+    },
+    "%@, required" : {
+      "comment" : "How VoiceOver names a required field."
+    },
+    "Add Attachments" : {
+
+    },
+    "Add a description." : {
+
+    },
+    "Add a title." : {
+
+    },
+    "Add an email address so we can reply." : {
+
+    },
+    "Added by you" : {
+      "comment" : "Describes a file the person attached themselves."
+    },
+    "Adding attachments…" : {
+
+    },
+    "An attachment’s name can’t be used. Rename the file and add it again." : {
+
+    },
+    "Answer “%@”." : {
+      "comment" : "A required question is unanswered. The label is the question's."
+    },
+    "Basic Information" : {
+
+    },
+    "Cancel" : {
+
+    },
+    "Choose an answer for “%@” from its list." : {
+
+    },
+    "Choose…" : {
+
+    },
+    "Close" : {
+
+    },
+    "Confirm Submission" : {
+
+    },
+    "Contact" : {
+
+    },
+    "Description" : {
+
+    },
+    "Details" : {
+
+    },
+    "Device" : {
+
+    },
+    "Discard Feedback" : {
+
+    },
+    "Discard this feedback?" : {
+
+    },
+    "Done" : {
+
+    },
+    "Edit Feedback" : {
+
+    },
+    "Email" : {
+
+    },
+    "Enlarge Image" : {
+
+    },
+    "Enter a number for “%@”." : {
+
+    },
+    "Enter a whole number for “%@”." : {
+
+    },
+    "Feedback Isn’t Set Up" : {
+
+    },
+    "File" : {
+
+    },
+    "Files" : {
+
+    },
+    "Fit to Width" : {
+
+    },
+    "Included in This Report" : {
+
+    },
+    "Keep Editing" : {
+
+    },
+    "Language" : {
+
+    },
+    "Mac" : {
+
+    },
+    "Next" : {
+
+    },
+    "No" : {
+
+    },
+    "Optional, if you’d like a reply" : {
+
+    },
+    "Page %lld" : {
+
+    },
+    "Photo %lld" : {
+      "comment" : "The name of a file made from a picked photo, before its extension."
+    },
+    "Photo %lld couldn’t be read." : {
+
+    },
+    "Photo %lld is in a format that can’t be attached." : {
+
+    },
+    "Photo Library" : {
+
+    },
+    "Preview %@" : {
+      "comment" : "A button that shows what is sent of the named files."
+    },
+    "Preview Unavailable" : {
+
+    },
+    "Previous" : {
+
+    },
+    "Provide Feedback to %@" : {
+
+    },
+    "Remove %@" : {
+      "comment" : "A button that leaves the named files out of the report."
+    },
+    "Required" : {
+
+    },
+    "Review Final Report" : {
+
+    },
+    "Review the report before confirming submission." : {
+
+    },
+    "Shorten the description to %@ characters or fewer." : {
+
+    },
+    "Shorten the email address to %@ characters or fewer." : {
+
+    },
+    "Shorten the title to %@ characters or fewer." : {
+
+    },
+    "Shorten “%@” to %@ characters or fewer." : {
+      "comment" : "The first value is a question's label.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Shorten “%1$@” to %2$@ characters or fewer."
+          }
+        }
+      }
+    },
+    "So we can reply" : {
+
+    },
+    "Submit Report" : {
+
+    },
+    "System" : {
+
+    },
+    "Tell us what went wrong or what would help. Nothing is sent until you press Submit Report." : {
+
+    },
+    "These attachments are too large to send together. A report can include %@ files and %@ in all." : {
+      "comment" : "The first value is a number of files, the second a size such as 10 MB.",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "These attachments are too large to send together. A report can include %1$@ files and %2$@ in all."
+          }
+        }
+      }
+    },
+    "This app hasn’t been set up to send feedback." : {
+
+    },
+    "This app’s feedback form isn’t set up correctly, so the feedback can’t be sent." : {
+
+    },
+    "This report always includes this file" : {
+
+    },
+    "This report’s text is too long to send. Shorten the description." : {
+
+    },
+    "Title" : {
+
+    },
+    "Two attachments have the same name. Leave one out, or rename it and add it again." : {
+
+    },
+    "What did you expect, and what happened instead?" : {
+
+    },
+    "What you’ve written and attached won’t be sent." : {
+
+    },
+    "Yes" : {
+
+    },
+    "“%@” is too large a number to send." : {
+
+    }
+  },
+  "version" : "1.0"
+}
